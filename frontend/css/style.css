@@ -1,0 +1,27 @@
+
+
+body{
+    background: whitesmoke;
+}
+#imagen1{
+    width: 600px;
+    height: 200px;
+}
+form{
+    text-align: center;
+    display:75px;
+
+
+
+
+
+} 
+.caja{
+    background: lightcyan;
+    
+}
+#nombres{
+    border-block-color:blue;
+    box-decoration-break: slice;
+}
+
